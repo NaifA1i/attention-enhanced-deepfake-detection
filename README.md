@@ -170,7 +170,7 @@ This improves interpretability by showing where the model focuses.
 
 If you use this work, please cite:
 
-*Attention-Enhanced Deepfake Detection Using ResNet50V2 and Hybrid Attention Mechanisms* 
+**Attention-Enhanced Deepfake Detection Using ResNet50V2 and Hybrid Attention Mechanisms** 
 Naif A. Almalki, Mahmoud Ragab, Faris Kateb;  
 Manuscript under review at *The Visual Computer*, Springer, 2026.
 ---
