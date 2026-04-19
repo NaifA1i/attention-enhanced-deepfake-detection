@@ -166,4 +166,11 @@ This improves interpretability by showing where the model focuses.
 - T. Padhy, “Deepfake Dataset,” Kaggle, 2021. [Online]. Available: https://www.kaggle.com/datasets/tusharpadhy/deepfake-dataset 
 [Accessed: Jun. 11, 2025].
 
-
+### Citation 
+---
+@article{almalki2026deepfake,
+  title={Attention-Enhanced Deepfake Detection Using ResNet50V2 and Hybrid Attention Mechanisms},
+  author={Almalki, Naif and Ragab, Mahmoud and Kateb, Faris},
+  year={2026}
+}
+---
