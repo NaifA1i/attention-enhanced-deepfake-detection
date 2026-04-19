@@ -77,11 +77,9 @@ The goal is to detect subtle facial manipulations in images and improve robustne
 The dataset used in this study is collected from multiple benchmark sources and undergoes several preprocessing stages including normalization and cleaning.
 
 ### Data Collection Summary
-<p align="center">
-<img width="824" height="164" alt="Screenshot 2026-04-19 at 2 40 11 PM" src="https://github.com/user-attachments/assets/24391bd6-e251-4be2-b07c-06b5bf4bc83e" />
-  <br>
-  <em>Fig.3: Structure of preprocessing data</em>
-</p>
+
+<img width="850" height="200" alt="Screenshot 2026-04-19 at 2 40 11 PM" src="https://github.com/user-attachments/assets/24391bd6-e251-4be2-b07c-06b5bf4bc83e" />
+
 
 ### Final Dataset
 
@@ -116,8 +114,12 @@ The dataset used in this study is collected from multiple benchmark sources and 
   - Zoom
   - Shift
   - Horizontal flip
-<img width="395" height="186" alt="image" src="https://github.com/user-attachments/assets/a6104d4c-fbe6-45c8-8027-f636a3c9015a" />
-
+ 
+<p align="center">
+<img width="850" height="200" alt="image" src="https://github.com/user-attachments/assets/a6104d4c-fbe6-45c8-8027-f636a3c9015a" />
+  <br>
+  <em>Fig.3: Structure of preprocessing data</em>
+</p>
 ---
 
 ## Evaluation Metrics
