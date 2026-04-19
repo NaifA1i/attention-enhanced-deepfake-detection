@@ -116,7 +116,7 @@ The dataset used in this study is collected from multiple benchmark sources and 
   - Horizontal flip
  
 <p align="center">
-<img width="850" height="200" alt="image" src="https://github.com/user-attachments/assets/a6104d4c-fbe6-45c8-8027-f636a3c9015a" />
+<img width="550" height="160" alt="image" src="https://github.com/user-attachments/assets/a6104d4c-fbe6-45c8-8027-f636a3c9015a" />
   <br>
   <em>Fig.3: Structure of preprocessing data</em>
 </p>
@@ -136,8 +136,9 @@ The model uses Grad-CAM to highlight:
 - Mouth region
 - Eye corners
 - Facial boundaries
+  <p align="center">
 <img width="688" height="314" alt="Screenshot 2026-04-19 at 2 42 34 PM" src="https://github.com/user-attachments/assets/83ce8ef9-8e8e-49a6-bb72-95e51661e378" />
-
+</p>
 This improves interpretability by showing where the model focuses.
 
 ---
