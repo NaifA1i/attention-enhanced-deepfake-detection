@@ -33,6 +33,8 @@ The goal is to detect subtle facial manipulations in images and improve robustne
 - CBAM → Channel + Spatial attention
 - Transformer (optional) → Global context
 
+<center><img width="253" height="183" alt="image" src="https://github.com/user-attachments/assets/29b4e0ec-4104-466b-ba6f-11cb74a712db" /><\center>
+
 ### Final Layers
 - Dense (1024 → 512 → 256)
 - Dropout (0.4 / 0.3)
