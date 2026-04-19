@@ -112,6 +112,7 @@ The dataset used in this study is collected from multiple benchmark sources and 
   - Zoom
   - Shift
   - Horizontal flip
+<img width="395" height="186" alt="image" src="https://github.com/user-attachments/assets/a6104d4c-fbe6-45c8-8027-f636a3c9015a" />
 
 ---
 
@@ -129,12 +130,25 @@ The model uses Grad-CAM to highlight:
 - Mouth region
 - Eye corners
 - Facial boundaries
+<img width="688" height="314" alt="Screenshot 2026-04-19 at 2 42 34 PM" src="https://github.com/user-attachments/assets/83ce8ef9-8e8e-49a6-bb72-95e51661e378" />
 
 This improves interpretability by showing where the model focuses.
 
 ---
+### Experiment Result
 
-## Dataset Sources
+<img width="480" height="212" alt="image" src="https://github.com/user-attachments/assets/1914462f-0f6e-4035-a677-7e113d8b415a" />
+
+<img width="456" height="295" alt="image" src="https://github.com/user-attachments/assets/3cd16105-8609-4cc5-a5c7-6d6f8568781c" />
+
+
+<img width="470" height="258" alt="image" src="https://github.com/user-attachments/assets/0e598e2a-10b5-4dfa-ba9f-797d2c6a9a8a" />
+
+<img width="470" height="311" alt="image" src="https://github.com/user-attachments/assets/e4d8f158-f415-4ffe-bc64-75c5a9621adc" />
+
+<img width="717" height="1020" alt="Screenshot 2026-04-19 at 2 46 59 PM" src="https://github.com/user-attachments/assets/31c34d82-88f0-4409-88b8-0cbd14ba8bda" />
+
+### Dataset Sources
 
 - C. I. P. Lab, “Real and Fake Face Detection,” Kaggle, 2019. [Online]. Available: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection 
 [Accessed: Jun. 11, 2025].
