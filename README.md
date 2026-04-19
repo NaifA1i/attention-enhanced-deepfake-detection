@@ -46,14 +46,21 @@ The goal is to detect subtle facial manipulations in images and improve robustne
 
 ### Best Model: ResNet50V2 + SE + CBAM
 
-| Metric | Value |
-|------|------|
-| Accuracy | 95% |
-| AUC | 98.6% |
-| Precision | 88% |
-| Recall | 91% |
-| F1-score | 89% |
+| Metric | Value |Best Epoch
+|------|------|------
+| Accuracy | 95% | 27
+| AUC | 98.6% | 27
 
+
+### Best Result: ResNet50V2 + SE + CBAM With Benchmark Dataset FF++ balanced performance
+
+| Metric | Value 
+|------|------|
+| Accuracy | 92% | 
+| AUC | 98% | 
+| Precision | 92% | 
+| Recall | 93% |
+| F1-score | 93% |
 ---
 
 ## Datasets Used
@@ -62,6 +69,17 @@ The goal is to detect subtle facial manipulations in images and improve robustne
 - Celeb-DF (v2)
 - Deepfake Detection Dataset (DFD)
 - Real and Fake Face Detection (RFFD)
+
+  TABLE 1. DATA COLLECTION
+Dataset	Fake Face Detection 	FaceForensics++ 	Celeb-DF	Deepfake Detection 
+Video		Real (200 mp4)
+Fake (200 mp4)	Real (890 mp4)
+Fake (5639 mp4)	
+Images	Real (1081)/Fake (960)	Real (3753)/Fake (3077)	Real (4857)/Fake (53239)	Real (165201)/Fake (165134)
+Normalized	Real (1081)/Fake (960)	Real (3753)/Fake (3077)	Real (4857)/Fake (53239)	Real (140001)/Fake (140001)
+Cleaning	Real (1074)/Fake (960)	Real (3683)/Fake (3056)	Real (4792)/Fake (13007)	Real (21016)/Fake (20656)
+Total	Real (30000) images/Fake (30000) images
+
 
 ### Final Dataset
 - 30,000 Real Images
