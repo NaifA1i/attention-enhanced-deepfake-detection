@@ -64,6 +64,18 @@ The goal is to detect subtle facial manipulations in images and improve robustne
 | Recall | 93% |
 | F1-score | 93% |
 ---
+## Data Availability
+
+The datasets used in this study are publicly available on Kaggle and other benchmark sources, including:
+  
+- FaceForensics++ (FF++)
+- Celeb-DF (v2)
+- Deepfake Detection Dataset (DFD)
+- Real and Fake Face Detection (RFFD)
+  
+These datasets can be accessed via Kaggle:  
+https://www.kaggle.com/  
+Note: The dataset was preprocessed and curated (filtering, normalization, and balancing) before training.
 
 ## Datasets Used
 
