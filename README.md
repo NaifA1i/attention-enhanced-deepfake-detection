@@ -70,20 +70,26 @@ The goal is to detect subtle facial manipulations in images and improve robustne
 - Deepfake Detection Dataset (DFD)
 - Real and Fake Face Detection (RFFD)
 
-  TABLE 1. DATA COLLECTION
-Dataset	Fake Face Detection 	FaceForensics++ 	Celeb-DF	Deepfake Detection 
-Video		Real (200 mp4)
-Fake (200 mp4)	Real (890 mp4)
-Fake (5639 mp4)	
-Images	Real (1081)/Fake (960)	Real (3753)/Fake (3077)	Real (4857)/Fake (53239)	Real (165201)/Fake (165134)
-Normalized	Real (1081)/Fake (960)	Real (3753)/Fake (3077)	Real (4857)/Fake (53239)	Real (140001)/Fake (140001)
-Cleaning	Real (1074)/Fake (960)	Real (3683)/Fake (3056)	Real (4792)/Fake (13007)	Real (21016)/Fake (20656)
-Total	Real (30000) images/Fake (30000) images
+ ## 📊 Dataset Overview
 
+The dataset used in this study is collected from multiple benchmark sources and undergoes several preprocessing stages including normalization and cleaning.
+
+### 🧾 Data Collection Summary
+
+| Dataset | Video | Images | Normalized | Cleaning |
+|--------|------|--------|------------|----------|
+| Fake Face Detection (RFFD) | Real (200) / Fake (200) | Real (1081) / Fake (960) | Real (1081) / Fake (960) | Real (1074) / Fake (960) |
+| FaceForensics++ (FF++) | Real (890) / Fake (5639) | Real (3753) / Fake (3077) | Real (3753) / Fake (3077) | Real (3683) / Fake (3056) |
+| Celeb-DF | — | Real (4857) / Fake (53239) | Real (4857) / Fake (53239) | Real (4792) / Fake (13007) |
+| Deepfake Detection (DFD) | — | Real (165201) / Fake (165134) | Real (140001) / Fake (140001) | Real (21016) / Fake (20656) |
 
 ### Final Dataset
-- 30,000 Real Images
-- 30,000 Fake Images
+
+- **30,000 Real Images**
+- **30,000 Fake Images**
+- Balanced dataset for fair training and evaluation
+
+
 
 ---
 
