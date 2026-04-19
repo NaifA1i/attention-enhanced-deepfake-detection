@@ -35,7 +35,7 @@ The goal is to detect subtle facial manipulations in images and improve robustne
 <p align="center">
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/29b4e0ec-4104-466b-ba6f-11cb74a712db" />
   <br>
-  <em>Figure: Proposed Deepfake Detection Pipeline</em>
+  <em>Fig.1: Pseudocode for our model function</em>
 </p>
 ### Final Layers
 - Dense (1024 → 512 → 256)
