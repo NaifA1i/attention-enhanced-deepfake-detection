@@ -10,4 +10,9 @@ Deepfake detection using ResNet50V2 with SE and CBAM attention mechanisms
 - R. Suju, “Celeb-DF-v2,” Kaggle, 2023. [Online]. Available: https://www.kaggle.com/datasets/reubensuju/celeb-df-v2 
 [Accessed: Jun. 11, 2025]. 
 - T. Padhy, “Deepfake Dataset,” Kaggle, 2021. [Online]. Available: https://www.kaggle.com/datasets/tusharpadhy/deepfake-dataset 
-[Accessed: Jun. 11, 2025]. 
+[Accessed: Jun. 11, 2025].
+
+
+
+<img width="411" height="193" alt="image" src="https://github.com/user-attachments/assets/777bc393-fb72-4c57-b9c2-3ba9ee44c8fb" />
+
