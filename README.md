@@ -136,7 +136,7 @@ The model uses Grad-CAM to highlight:
 - Mouth region
 - Eye corners
 - Facial boundaries
-  <p align="center">
+<p align="center">
 <img width="688" height="314" alt="Screenshot 2026-04-19 at 2 42 34 PM" src="https://github.com/user-attachments/assets/83ce8ef9-8e8e-49a6-bb72-95e51661e378" />
 </p>
 This improves interpretability by showing where the model focuses.
