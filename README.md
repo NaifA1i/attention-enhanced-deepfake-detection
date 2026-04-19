@@ -77,12 +77,16 @@ These datasets can be accessed via Kaggle:
 https://www.kaggle.com/  
 Note: The dataset was preprocessed and curated (filtering, normalization, and balancing) before training.
 
-## Datasets Used
+## Dataset Sources
 
-- FaceForensics++ (FF++)
-- Celeb-DF (v2)
-- Deepfake Detection Dataset (DFD)
-- Real and Fake Face Detection (RFFD)
+- C. I. P. Lab, “Real and Fake Face Detection,” Kaggle, 2019. [Online]. Available: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection 
+[Accessed: Jun. 11, 2025].
+- H. Le, “FaceForensics,” Kaggle, 2022. [Online]. Available: https://www.kaggle.com/datasets/hungle3401/faceforensics 
+[Accessed: Jun. 11, 2025].
+- R. Suju, “Celeb-DF-v2,” Kaggle, 2023. [Online]. Available: https://www.kaggle.com/datasets/reubensuju/celeb-df-v2 
+[Accessed: Jun. 11, 2025]. 
+- T. Padhy, “Deepfake Dataset,” Kaggle, 2021. [Online]. Available: https://www.kaggle.com/datasets/tusharpadhy/deepfake-dataset 
+[Accessed: Jun. 11, 2025].
 
  ## Dataset Overview
 
@@ -167,16 +171,7 @@ This improves interpretability by showing where the model focuses.
 
 <img width="717" height="1020" alt="Screenshot 2026-04-19 at 2 46 59 PM" src="https://github.com/user-attachments/assets/31c34d82-88f0-4409-88b8-0cbd14ba8bda" />
 </p>
-### Dataset Sources
 
-- C. I. P. Lab, “Real and Fake Face Detection,” Kaggle, 2019. [Online]. Available: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection 
-[Accessed: Jun. 11, 2025].
-- H. Le, “FaceForensics,” Kaggle, 2022. [Online]. Available: https://www.kaggle.com/datasets/hungle3401/faceforensics 
-[Accessed: Jun. 11, 2025].
-- R. Suju, “Celeb-DF-v2,” Kaggle, 2023. [Online]. Available: https://www.kaggle.com/datasets/reubensuju/celeb-df-v2 
-[Accessed: Jun. 11, 2025]. 
-- T. Padhy, “Deepfake Dataset,” Kaggle, 2021. [Online]. Available: https://www.kaggle.com/datasets/tusharpadhy/deepfake-dataset 
-[Accessed: Jun. 11, 2025].
 
 ### Citation
 
