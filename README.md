@@ -170,9 +170,11 @@ This improves interpretability by showing where the model focuses.
 
 If you use this work, please cite:
 
-**Attention-Enhanced Deepfake Detection Using ResNet50V2 and Hybrid Attention Mechanisms**  
-Naif A. Almalki, Mahmoud Ragab, Faris Kateb 
-Information Technology Department, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, Saudi Arabia; nattiahalmalki@stu.kau.edu.sa , mragab@kau.edu.sa , fakateb@kau.edu.sa  
+*Attention-Enhanced Deepfake Detection Using ResNet50V2 and Hybrid Attention Mechanisms* 
+Naif A. Almalki, Mahmoud Ragab, Faris Kateb;  
+Information Technology Department, Faculty of Computing and Information Technology;  
+King Abdulaziz University, Jeddah, Saudi Arabia;  
+nattiahalmalki@stu.kau.edu.sa , mragab@kau.edu.sa , fakateb@kau.edu.sa  
 Manuscript under review at *The Visual Computer*, Springer, 2026.
 ---
 ### Contact
