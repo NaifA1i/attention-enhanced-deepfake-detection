@@ -143,7 +143,7 @@ This improves interpretability by showing where the model focuses.
 
 ---
 ### Experiment Result
-
+<p align="center">
 <img width="480" height="212" alt="image" src="https://github.com/user-attachments/assets/1914462f-0f6e-4035-a677-7e113d8b415a" />
 
 <img width="456" height="295" alt="image" src="https://github.com/user-attachments/assets/3cd16105-8609-4cc5-a5c7-6d6f8568781c" />
@@ -154,7 +154,7 @@ This improves interpretability by showing where the model focuses.
 <img width="470" height="311" alt="image" src="https://github.com/user-attachments/assets/e4d8f158-f415-4ffe-bc64-75c5a9621adc" />
 
 <img width="717" height="1020" alt="Screenshot 2026-04-19 at 2 46 59 PM" src="https://github.com/user-attachments/assets/31c34d82-88f0-4409-88b8-0cbd14ba8bda" />
-
+</p>
 ### Dataset Sources
 
 - C. I. P. Lab, “Real and Fake Face Detection,” Kaggle, 2019. [Online]. Available: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection 
