@@ -13,6 +13,3 @@ Deepfake detection using ResNet50V2 with SE and CBAM attention mechanisms
 [Accessed: Jun. 11, 2025].
 
 
-
-<img width="411" height="193" alt="image" src="https://github.com/user-attachments/assets/777bc393-fb72-4c57-b9c2-3ba9ee44c8fb" />
-
