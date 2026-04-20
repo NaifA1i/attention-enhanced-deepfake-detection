@@ -135,7 +135,11 @@ The dataset used in this study is collected from multiple benchmark sources and 
 <img width="550" height="160" alt="image" src="https://github.com/user-attachments/assets/a6104d4c-fbe6-45c8-8027-f636a3c9015a" />
   <br>
   <em>Fig.3: Structure of preprocessing data</em>
+  <br>
+  <img width="749" height="383" alt="Screenshot 2026-04-20 at 10 24 14 AM" src="https://github.com/user-attachments/assets/2c6d3f09-851c-401c-8fcb-47fc522b0144" />
+
 </p>
+
 ---
 
 ## Evaluation Metrics
