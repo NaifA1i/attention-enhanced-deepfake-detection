@@ -1,6 +1,6 @@
-# attention-enhanced-deepfake-detection
+# Attention-Enhanced-Deepfake-Detection
 Deepfake detection using ResNet50V2 with SE and CBAM attention mechanisms
-# Attention-Enhanced Deepfake Detection Using ResNet50V2 and Hybrid Attention Mechanisms
+# Title: Attention-Enhanced Deepfake Detection Using ResNet50V2 and Hybrid Attention Mechanisms
 
 ## Overview
 This repository presents a hybrid deepfake detection framework that combines **Convolutional Neural Networks (CNNs)** with **attention mechanisms** to improve detection accuracy and interpretability.
