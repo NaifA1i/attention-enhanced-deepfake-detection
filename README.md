@@ -148,7 +148,9 @@ The dataset used in this study is collected from multiple benchmark sources and 
 - Recall
 - F1-score
 - AUC (Area Under Curve)
-
+<p align="center">
+<img width="724" height="226" alt="Screenshot 2026-04-20 at 10 26 16 AM" src="https://github.com/user-attachments/assets/79edb8fb-cba0-426c-baf4-c7ea946919e3" />
+</p>
 ---
 
 ## Explainability (Grad-CAM)
