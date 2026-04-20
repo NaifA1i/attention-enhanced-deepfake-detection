@@ -160,8 +160,10 @@ The dataset used in this study is collected from multiple benchmark sources and 
 
 </p>
 ---
-The proposed system follows a multi-stage pipeline.  
+
+The proposed system follows a multi-stage pipeline.    
 Video → Face Extraction → Normalization → Quality Check → Model → Output
+
 ---
 
 ## Evaluation Metrics
