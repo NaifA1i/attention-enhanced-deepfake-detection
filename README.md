@@ -44,7 +44,6 @@ The goal is to detect subtle facial manipulations in images and improve robustne
 
 ---
 
----
 ## Environment Setup
 
 - OS: macOS 15.7.4 | 3.7 GHz 6-Core Intel Core i5 | Radeon Pro 580X 8 GB | 8 GB 2667 MHz DDR4
