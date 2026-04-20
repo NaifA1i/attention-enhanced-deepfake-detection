@@ -212,9 +212,7 @@ If you use this work, please cite:
 Naif A. Almalki, Mahmoud Ragab, Faris Kateb;  
 Manuscript under review at *The Visual Computer*, Springer, 2026.
 ## DOI
-This project is archived on Zenodo:
-
-https://doi.org/10.5281/zenodo.19662599
+NaifA1i. (2026). NaifA1i/attention-enhanced-deepfake-detection: Attention-Enhanced Deepfake Detection (v1.0.1) (v1.0.1). Zenodo.   https://doi.org/10.5281/zenodo.19662599 
 ---
 ### Contact
 
