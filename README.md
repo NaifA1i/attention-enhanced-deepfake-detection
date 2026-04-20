@@ -44,6 +44,26 @@ The goal is to detect subtle facial manipulations in images and improve robustne
 
 ---
 
+---
+## Environment Setup
+
+- OS: macOS 15.7.4 | 3.7 GHz 6-Core Intel Core i5 | Radeon Pro 580X 8 GB | 8 GB 2667 MHz DDR4
+- Python Version: Python 3.8.2
+- GPU: Not used
+
+### Required Libraries
+
+| Library        | Version  |
+|----------------|----------|
+| TensorFlow     | 2.13.0   |
+| Keras          | 2.13.1   |
+| opencv-python  | 4.9.0 84 |
+| NumPy          | 1.24.3   |
+| mediapipe      | 0.10.11  |
+| mtcnn          | 0.1.1    |
+
+All dependencies are listed in requirements.txt
+
 ## Performance
 
 ### Best Model: ResNet50V2 + SE + CBAM
