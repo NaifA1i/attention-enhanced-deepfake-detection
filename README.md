@@ -31,7 +31,7 @@ The goal is to detect subtle facial manipulations in images and improve robustne
 ### Attention Modules
 - SE Block → Channel attention
 - CBAM → Channel + Spatial attention
-- Transformer (optional) → Global context
+- Transformer 
 <p align="center">
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/29b4e0ec-4104-466b-ba6f-11cb74a712db" />
   <br>
