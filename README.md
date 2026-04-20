@@ -38,7 +38,7 @@ The goal is to detect subtle facial manipulations in images and improve robustne
   <em>Fig.1: Pseudocode for our model function</em>
 </p>
 
-
+### Final Layer
   - Dense (1024 → 512 → 256)
   - Dropout (0.4 / 0.3)
   - Sigmoid output (binary classification)
