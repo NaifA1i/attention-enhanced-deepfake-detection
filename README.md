@@ -184,6 +184,9 @@ The model uses Grad-CAM to highlight:
 This improves interpretability by showing where the model focuses.
 
 ---
+The proposed system follows a multi-stage pipeline. 
+Video → Face Extraction → Normalization → Quality Check → Model → Output
+---
 ### Experiment Result
 <p align="center">
 <img width="480" height="212" alt="image" src="https://github.com/user-attachments/assets/1914462f-0f6e-4035-a677-7e113d8b415a" />
