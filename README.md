@@ -159,7 +159,9 @@ The dataset used in this study is collected from multiple benchmark sources and 
   <img width="749" height="383" alt="Screenshot 2026-04-20 at 10 24 14 AM" src="https://github.com/user-attachments/assets/2c6d3f09-851c-401c-8fcb-47fc522b0144" />
 
 </p>
-
+---
+The proposed system follows a multi-stage pipeline.  
+Video → Face Extraction → Normalization → Quality Check → Model → Output
 ---
 
 ## Evaluation Metrics
@@ -183,9 +185,7 @@ The model uses Grad-CAM to highlight:
 </p>
 This improves interpretability by showing where the model focuses.
 
----
-The proposed system follows a multi-stage pipeline. 
-Video → Face Extraction → Normalization → Quality Check → Model → Output
+
 ---
 ### Experiment Result
 <p align="center">
