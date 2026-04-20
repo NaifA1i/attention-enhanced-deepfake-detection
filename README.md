@@ -186,5 +186,4 @@ Manuscript under review at *The Visual Computer*, Springer, 2026.
 For questions, collaborations, or further information, please contact:
 
 **Naif A. Almalki**  
-King Abdulaziz University, Saudi Arabia  
 📧 nattiahalmalki@stu.kau.edu.sa
