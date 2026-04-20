@@ -14,7 +14,7 @@ from tensorflow.keras.applications import (
     VGG16, VGG19, InceptionV3, InceptionResNetV2,
     DenseNet121, DenseNet169, DenseNet201,
     NASNetMobile, EfficientNetB0
-)
+) 
 from tensorflow.keras.layers import (Concatenate, BatchNormalization, Dense, GlobalAveragePooling2D,
     GlobalMaxPooling2D, Reshape, Conv2D, MaxPooling2D, Multiply, Dropout,
     Flatten, Add, Activation, LayerNormalization, MultiHeadAttention)
