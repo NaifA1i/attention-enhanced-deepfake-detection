@@ -1,4 +1,4 @@
-# Attention-Enhanced-Deepfake-Detection
+<img width="1325" height="1120" alt="Screenshot 2025-10-06 at 11 32 59 AM" src="https://github.com/user-attachments/assets/c22ff7e8-81d0-48a6-b41c-57aa484c6791" /># Attention-Enhanced-Deepfake-Detection
 Deepfake detection using ResNet50V2 with SE and CBAM attention mechanisms
 # Title: Attention-Enhanced Deepfake Detection Using ResNet50V2 and Hybrid Attention Mechanisms
 
@@ -203,6 +203,12 @@ This improves interpretability by showing where the model focuses.
 <img width="717" height="1020" alt="Screenshot 2026-04-19 at 2 46 59 PM" src="https://github.com/user-attachments/assets/31c34d82-88f0-4409-88b8-0cbd14ba8bda" />
 </p>
 
+##Addition Result
+<p align="center">
+<img width="1325" height="1120" alt="Screenshot 2025-10-06 at 11 32 59 AM" src="https://github.com/user-attachments/assets/9566a860-c6ee-42b1-8e70-8853284b209c" />
+<img width="1341" height="1100" alt="Screenshot 2025-10-06 at 7 27 37 AM" src="https://github.com/user-attachments/assets/aff77111-e6f5-4dbd-8e85-12d33cc0d03b" />
+
+</p>
 
 ### Citation
 
