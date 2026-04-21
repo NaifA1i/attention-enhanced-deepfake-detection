@@ -207,10 +207,10 @@ This improves interpretability by showing where the model focuses.
 <p align="center">
 <img width="1325" height="1120" alt="Screenshot 2025-10-06 at 11 32 59 AM" src="https://github.com/user-attachments/assets/9566a860-c6ee-42b1-8e70-8853284b209c" />
   <br>
-  <em>Based Line - Concatenate - SE -CBAM (CCeleb)</em>
+  <em>Based Line - Concatenate - SE -CBAM (FF++)</em>
 <img width="1341" height="1100" alt="Screenshot 2025-10-06 at 7 27 37 AM" src="https://github.com/user-attachments/assets/aff77111-e6f5-4dbd-8e85-12d33cc0d03b" />
 <br>
-  <em>Based Line - Concatenate - SE -CBAM (CCFFPP)</em>
+  <em>Based Line - Concatenate - SE -CBAM (Celeb-DF)</em>
 </p>
 
 ### Citation
