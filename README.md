@@ -219,7 +219,7 @@ If you use this work, please cite:
 
 **Attention-Enhanced Deepfake Detection Using ResNet50V2 and Hybrid Attention Mechanisms** 
 Naif A. Almalki, Mahmoud Ragab, Faris Kateb;  
-Manuscript under review at *The Visual Computer*, Springer, 2026.
+Manuscript under review , 2026.
 ## DOI
 NaifA1i. (2026). NaifA1i/attention-enhanced-deepfake-detection: Attention-Enhanced Deepfake Detection (v1.0.1) (v1.0.1). Zenodo.   https://doi.org/10.5281/zenodo.19662599 
 ---
